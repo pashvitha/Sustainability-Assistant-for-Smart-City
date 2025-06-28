@@ -2,6 +2,7 @@
 
 An AI-powered web app built using **Streamlit**, **Hugging Face Transformers**, and **FAISS/Pinecone** to support smart city governance, sustainability planning, and citizen engagement.
 
+Demo vedio link:  https://drive.google.com/file/d/1uf8x8JiN-H_C6x9tZrmWmJhaFd5qkIr3/view?usp=sharing
 ---
 
 ## 🔧 Features
